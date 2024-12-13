@@ -1,163 +1,173 @@
-<modNames>
+		<modNames>
 			<li>Harmony</li>
 			<li>Core</li>
 			<li>Royalty</li>
 			<li>Ideology</li>
 			<li>Biotech</li>
-			<li>XML Extensions</li>
+			<li>Anomaly</li>
 			<li>Cherry Picker</li>
-			<li>HugsLib</li>
 			<li>Vanilla Expanded Framework</li>
-			<li>Vanilla Psycasts Expanded</li>
-			<li>[SYR] Processor Framework</li>
-			<li>Giddy-Up 2</li>
-			<li>Animal Gear</li>
-			<li>pphhyy's Demigryphs</li>
-			<li>MendAndRecycle</li>
-			<li>LWM's Deep Storage</li>
-			<li>Cash Register</li>
-			<li>Medieval Overhaul</li>
-			<li>Dubs Bad Hygiene</li>
-			<li>Medieval Medicines</li>
-			<li>Medieval Prosthetics</li>
-			<li>Adobe Abode</li>
-			<li>Adobe - Build Under Roof</li>
-			<li>Medieval Overhaul Tweaks</li>
-			<li>Rimedieval</li>
-			<li>Medieval Overhaul: Royalty</li>
-			<li>Weapon Racks</li>
-			<li>[1.4 FORK] EdB Prepare Carefully</li>
 			<li>[CAT] Show Hair With Hats or Hide All Hats</li>
 			<li>[FSF] Filth Vanishes With Rain And Time</li>
+			<li>[FSF] Growable Grass</li>
 			<li>[GMT] Trading Spot</li>
 			<li>[HRK] Medieval deathrest coffin</li>
+			<li>XML Extensions</li>
+			<li>Castle Walls Reborn</li>
+			<li>[JDS] Castle Walls Expanded</li>
+			<li>[LC] Selectable Sculpture Graphic</li>
 			<li>[NL] Facial Animation - WIP</li>
 			<li>[NL] Facial Animation - Experimentals</li>
-			<li>[SR]Factional War</li>
-			<li>[SYR] More Slaves</li>
-			<li>[SYR] Set Up Camp</li>
+			<li>[SR]Factional War Continued</li>
+			<li>[SYR] More Slaves (Continued)</li>
+			<li>[SYR] Processor Framework</li>
+			<li>Adobe Abode (1.5 continued)</li>
+			<li>Vanilla Psycasts Expanded</li>
+			<li>Vanilla Factions Expanded - Insectoids 2</li>
 			<li>Alpha Animals</li>
-			<li>Vanilla Fishing Expanded</li>
-			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+			<li>Alpha Genes</li>
 			<li>Alpha Memes</li>
 			<li>Alpha Mythology</li>
-			<li>Animal Equipment</li>
+			<li>Ambient Rim</li>
 			<li>Animal Genetics (Continued)</li>
 			<li>Animal Tab</li>
+			<li>Apothecary (Continued)</li>
+			<li>Vehicle Framework</li>
+			<li>Automatic Parking</li>
+			<li>HugsLib</li>
 			<li>Better Pawn Control</li>
 			<li>Geological Landforms</li>
 			<li>Biome Transitions</li>
+			<li>Bionic icons</li>
+			<li>Biotech Mechanoid Retexture</li>
+			<li>Blood Animations</li>
 			<li>Blood Color Genes</li>
 			<li>Camera+</li>
-			<li>Clean Textures</li>
-			<li>Clean Textures Background</li>
-			<li>Collapser</li>
-			<li>Consistent Gene Inheritance</li>
-			<li>Custom Prisoner Interactions</li>
-			<li>Cuter Biotech Cat/Dog Ear Replacer</li>
+			<li>Cash Register</li>
 			<li>Gastronomy</li>
 			<li>Hospitality</li>
-			<li>Cyber Fauna 1.4</li>
-			<li>Medievel Tailor</li>
-			<li>RimFantasy - Medieval Overhaul Edition</li>
-			<li>Fortifications - Medieval</li>
+			<li>Cash Register Retexture</li>
+			<li>Chicken Nests</li>
+			<li>Dubs Bad Hygiene</li>
+			<li>Medieval Overhaul</li>
+			<li>Clean Textures</li>
+			<li>Clean Textures Background</li>
+			<li>Cold Desert Nights (Continued)</li>
+			<li>Collapser</li>
 			<li>Common Sense</li>
-			<li>Dragons Descent</li>
-			<li>Horse Breeds - Skin Variations</li>
+			<li>Consistent Gene Inheritance (1.5 UNOFFICIAL PATCH)</li>
+			<li>Consistent Map Stone (Continued)</li>
+			<li>Crafting Spot Parka</li>
+			<li>Custom Prisoner Interactions</li>
+			<li>Cuter Biotech Cat/Dog Ear Replacer</li>
 			<li>Doors Expanded</li>
+			<li>Dragons Descent</li>
+			<li>Dubs Rimatomics</li>
+			<li>Dynamic Flooding</li>
+			<li>EdB Prepare Carefully</li>
+			<li>Expanded Prosthetics and Organ Engineering - Forked</li>
+			<li>Faction Customizer</li>
 			<li>Floordrawings</li>
+			<li>Food Poisoning Stack Fix (Continued)</li>
+			<li>Tabula Rasa</li>
+			<li>Outland - Genetics</li>
+			<li>Forgotten Realms - Biotech Edition</li>
+			<li>Gene Ripper</li>
 			<li>Geyser Deconstruct patch</li>
+			<li>Giddy-Up 2 Forked</li>
+			<li>Go the Fork to Sleep</li>
+			<li>Grimstone : Beasts</li>
+			<li>Hard Times: Hair and Beards</li>
 			<li>Heat Map (Continued)</li>
+			<li>Horse Breeds - Skin Variations</li>
 			<li>Interaction Bubbles</li>
 			<li>Just Put It Over There</li>
 			<li>Less Stupid Romance Attempt (Continued)</li>
-			<li>Loading In Progress</li>
+			<li>Let Me Drink</li>
 			<li>Map Preview</li>
-			<li>Medical Tab</li>
+			<li>Map Reroll (1.4/1.5)</li>
+			<li>Medical System Expansion 2</li>
+			<li>Medieval Fantasy Themed Quest Rewards</li>
+			<li>Medieval Melee Sounds</li>
+			<li>Medieval Overhaul Apothecary Plants Patch</li>
+			<li>World Map Beautification Project (Continued)</li>
+			<li>Medieval Overhaul: WMBP</li>
 			<li>Megafauna</li>
+			<li>Melee Animation</li>
+			<li>MendAndRecycle</li>
+			<li>Metals Trader</li>
+			<li>Misc. Training</li>
+			<li>Misc. Training Medieval Retexture</li>
 			<li>Moody</li>
 			<li>More Faction Interaction (Continued)</li>
 			<li>More Sculpture</li>
-			<li>Music Expanded Framework</li>
-			<li>Music Expanded Core</li>
+			<li>Mortar Accuracy</li>
+			<li>Music Expanded Framework (Continued)</li>
+			<li>Vanilla Events Expanded</li>
+			<li>Music Expanded Core (Continued)</li>
+			<li>Muzzle Flash</li>
 			<li>No Burn Metal</li>
+			<li>No Slave Romance (Re-Continued)</li>
+			<li>Not My Fault</li>
 			<li>OgreStack</li>
 			<li>Pick Up And Haul</li>
-			<li>Consistent Map Stone</li>
-			<li>Soil Relocation Framework</li>
-			<li>Water Freezes</li>
-			<li>Snowy Trees</li>
-			<li>Some Things Float</li>
-			<li>Powerful Faction Bases</li>
-			<li>ProxyHeat</li>
+			<li>pphhyy's Demigryphs</li>
+			<li>Prisoners Dont Have Keys</li>
 			<li>Quarry</li>
 			<li>Realistic Rooms Rewritten</li>
+			<li>Red's Performance Fixes (aka. Comp EggLayer Fix)</li>
 			<li>Research Reinvented</li>
-			<li>TechBlock</li>
 			<li>Replace Stuff</li>
+			<li>Replantable Anima Trees</li>
+			<li>Rimefeller</li>
+			<li>RimFridge: Now with Shelves!</li>
 			<li>RimHUD</li>
 			<li>Rimsenal - Hair pack</li>
 			<li>RPG Style Inventory Revamped</li>
-			<li>Selectable Sculpture Graphic</li>
-			<li>Self Dyeing</li>
-			<li>Vanilla Factions Expanded - Vikings</li>
-			<li>Vanilla Factions Expanded - Insectoids</li>
-			<li>Share The Load</li>
+			<li>Trader ships</li>
 			<li>Simple FX: Smoke</li>
+			<li>Scattered Flames</li>
+			<li>Self Dyeing</li>
+			<li>Set Up Camp</li>
 			<li>Simple FX: Splashes</li>
-			<li>Simple FX: Vapor</li>
+			<li>Simple FX: Vapor...Revaporized</li>
 			<li>Simple sidearms</li>
 			<li>Simply More Bridges (Continued)</li>
-			<li>Slave Outfits [1.4]</li>
-			<li>Slave Rebellions Improved</li>
-			<li>Replantable Anima Trees</li>
+			<li>Slave Outfits [1.5]</li>
 			<li>Smaller radius for Anima Trees, Shrines and Animus Stones</li>
 			<li>Smart Medicine</li>
 			<li>Smart Turret Covering</li>
 			<li>Snap Out!</li>
+			<li>Snowy Trees</li>
+			<li>Soil Relocation Framework (Continued)</li>
+			<li>Some Things Float</li>
 			<li>SpeakUp</li>
 			<li>Spoons Hair Mod</li>
 			<li>Standalone Hot Spring</li>
-			<li>Take off coat indoors</li>
-			<li>Tiny Table</li>
+			<li>TechBlock</li>
+			<li>Tiny Table ReUpload</li>
 			<li>Trait and Backstory Icons</li>
 			<li>Tribal Crib</li>
+			<li>Tribal Signal Fire (Continued)</li>
 			<li>Ugh You Got Me</li>
+			<li>Vanilla Fishing Expanded</li>
 			<li>Vanilla Hair Expanded</li>
-			<li>Vanilla Ideology Expanded - Dryads</li>
 			<li>Vanilla Persona Weapons Expanded</li>
+			<li>Vanilla Psycasts Expanded - Hemosage</li>
+			<li>Vanilla Vehicles Expanded</li>
+			<li>Vanilla Vehicles Expanded - Upgrades</li>
+			<li>Wall Light</li>
+			<li>Wall Vitals Monitor (Continued)</li>
 			<li>Walls are solid</li>
-			<li>World Map Beautification Project</li>
-			<li>Xenotype Spawn Control</li>
+			<li>Water Freezes (Continued)</li>
+			<li>Wololoo - Better Conversion and Recruitment</li>
 			<li>Yayo's Animation (Continued)</li>
 			<li>Yayo's Combat 3 (Continued)</li>
 			<li>Yayo's Combat 3 - Addon</li>
-			<li>Bionic icons</li>
-			<li>Map Reroll (1.4)</li>
-			<li>Faction Customizer</li>
-			<li>Not My Fault</li>
-			<li>Food Poisoning Stack Fix (Continued)</li>
-			<li>Apothecary (Continued)</li>
-			<li>Medieval Overhaul Misc. Patches</li>
-			<li>Medieval Overhaul: Leather Patches</li>
-			<li>Medieval Overhaul Apothecary Plants Patch</li>
+			<li>You Drive, I Sleep</li>
+			<li>Vanilla Ideology Expanded - Memes and Structures</li>
+			<li>Medieval Overhaul Patches</li>
+			<li>Medieval Overhaul: Toggleable Stuff</li>
+			<li>Medievel Tailor</li>
+			<li>Parka Retexture</li>
 		</modNames>
-    
-    
-    
-    
-    Exception: 
-    
-Could not resolve cross-reference to Verse.ThingDef named MachiningTable (wanter=inheritRecipesFrom)
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-Verse.Log:Error (string)
-Verse.DirectXmlCrossRefLoader:TryResolveDef<Verse.ThingDef> (string,Verse.FailMode,object)
-Verse.DirectXmlCrossRefLoader/WantedRefForList`1<Verse.ThingDef>:TryResolve (Verse.FailMode)
-Verse.DirectXmlCrossRefLoader/<>c__DisplayClass16_1:<ResolveAllWantedCrossReferences>b__0 (Verse.DirectXmlCrossRefLoader/WantedRef)
-Verse.GenThreading/<>c__DisplayClass7_1`1<Verse.DirectXmlCrossRefLoader/WantedRef>:<ParallelForEach>b__0 (object)
-System.Threading.QueueUserWorkItemCallback:WaitCallback_Context (object)
-System.Threading.ExecutionContext:RunInternal (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
-System.Threading.ExecutionContext:Run (System.Threading.ExecutionContext,System.Threading.ContextCallback,object,bool)
-System.Threading.QueueUserWorkItemCallback:System.Threading.IThreadPoolWorkItem.ExecuteWorkItem ()
-System.Threading.ThreadPoolWorkQueue:Dispatch ()
-System.Threading._ThreadPoolWaitCallback:PerformWaitCallback ()
